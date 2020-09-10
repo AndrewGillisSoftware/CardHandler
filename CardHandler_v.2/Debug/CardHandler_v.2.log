@@ -1,0 +1,7 @@
+﻿  CardHandler_v.2.cpp
+C:\Users\Andre\Desktop\CardHandler_v.2\CardHandler_v.2\CardHandler_v.2.cpp(22,109): warning C4305:  'argument': truncation from 'double' to 'T'
+C:\Users\Andre\Desktop\CardHandler_v.2\CardHandler_v.2\CardHandler_v.2.cpp(22,109): warning C4305:         with
+C:\Users\Andre\Desktop\CardHandler_v.2\CardHandler_v.2\CardHandler_v.2.cpp(22,109): warning C4305:         [
+C:\Users\Andre\Desktop\CardHandler_v.2\CardHandler_v.2\CardHandler_v.2.cpp(22,109): warning C4305:             T=float
+C:\Users\Andre\Desktop\CardHandler_v.2\CardHandler_v.2\CardHandler_v.2.cpp(22,109): warning C4305:         ]
+  CardHandler_v.2.vcxproj -> C:\Users\Andre\Desktop\CardHandler_v.2\Debug\CardHandler_v.2.exe

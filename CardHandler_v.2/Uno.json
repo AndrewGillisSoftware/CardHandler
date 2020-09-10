@@ -1,0 +1,230 @@
+{
+  "DIMENSIONS": 
+  {
+    "x": 390,
+    "y": 546,
+    "scale": 0.2
+  },
+  "CARDS": [
+    {
+      "spec": "back",
+      "image": "Resources\\Uno\\card_back_large.png"
+    },
+    {
+      "spec": "b0",
+      "image": "Resources\\Uno\\blue_0_large.png"
+    },
+    {
+      "spec": "b1",
+      "image": "Resources\\Uno\\blue_1_large.png"
+    },
+    {
+      "spec": "b2",
+      "image": "Resources\\Uno\\blue_2_large.png"
+    },
+    {
+      "spec": "b3",
+      "image": "Resources\\Uno\\blue_3_large.png"
+    },
+    {
+      "spec": "b4",
+      "image": "Resources\\Uno\\blue_4_large.png"
+    },
+    {
+      "spec": "b5",
+      "image": "Resources\\Uno\\blue_5_large.png"
+    },
+    {
+      "spec": "b6",
+      "image": "Resources\\Uno\\blue_6_large.png"
+    },
+    {
+      "spec": "b7",
+      "image": "Resources\\Uno\\blue_7_large.png"
+    },
+    {
+      "spec": "b8",
+      "image": "Resources\\Uno\\blue_8_large.png"
+    },
+    {
+      "spec": "b9",
+      "image": "Resources\\Uno\\blue_9_large.png"
+    },
+    {
+      "spec": "bP",
+      "image": "Resources\\Uno\\blue_picker_large.png"
+    },
+    {
+      "spec": "bR",
+      "image": "Resources\\Uno\\blue_reverse_large.png"
+    },
+    {
+      "spec": "bS",
+      "image": "Resources\\Uno\\blue_skip_large.png"
+    },
+    {
+      "spec": "g0",
+      "image": "Resources\\Uno\\green_0_large.png"
+    },
+    {
+      "spec": "g1",
+      "image": "Resources\\Uno\\green_1_large.png"
+    },
+    {
+      "spec": "g2",
+      "image": "Resources\\Uno\\green_2_large.png"
+    },
+    {
+      "spec": "g3",
+      "image": "Resources\\Uno\\green_3_large.png"
+    },
+    {
+      "spec": "g4",
+      "image": "Resources\\Uno\\green_4_large.png"
+    },
+    {
+      "spec": "g5",
+      "image": "Resources\\Uno\\green_5_large.png"
+    },
+    {
+      "spec": "g6",
+      "image": "Resources\\Uno\\green_6_large.png"
+    },
+    {
+      "spec": "g7",
+      "image": "Resources\\Uno\\green_7_large.png"
+    },
+    {
+      "spec": "g8",
+      "image": "Resources\\Uno\\green_8_large.png"
+    },
+    {
+      "spec": "g9",
+      "image": "Resources\\Uno\\green_9_large.png"
+    },
+    {
+      "spec": "gP",
+      "image": "Resources\\Uno\\green_picker_large.png"
+    },
+    {
+      "spec": "gR",
+      "image": "Resources\\Uno\\green_reverse_large.png"
+    },
+    {
+      "spec": "gS",
+      "image": "Resources\\Uno\\green_skip_large.png"
+    },
+    {
+      "spec": "r0",
+      "image": "Resources\\Uno\\red_0_large.png"
+    },
+    {
+      "spec": "r1",
+      "image": "Resources\\Uno\\red_1_large.png"
+    },
+    {
+      "spec": "r2",
+      "image": "Resources\\Uno\\red_2_large.png"
+    },
+    {
+      "spec": "r3",
+      "image": "Resources\\Uno\\red_3_large.png"
+    },
+    {
+      "spec": "r4",
+      "image": "Resources\\Uno\\red_4_large.png"
+    },
+    {
+      "spec": "r5",
+      "image": "Resources\\Uno\\red_5_large.png"
+    },
+    {
+      "spec": "r6",
+      "image": "Resources\\Uno\\red_6_large.png"
+    },
+    {
+      "spec": "r7",
+      "image": "Resources\\Uno\\red_7_large.png"
+    },
+    {
+      "spec": "r8",
+      "image": "Resources\\Uno\\red_8_large.png"
+    },
+    {
+      "spec": "r9",
+      "image": "Resources\\Uno\\red_9_large.png"
+    },
+    {
+      "spec": "rP",
+      "image": "Resources\\Uno\\red_picker_large.png"
+    },
+    {
+      "spec": "rR",
+      "image": "Resources\\Uno\\red_reverse_large.png"
+    },
+    {
+      "spec": "rS",
+      "image": "Resources\\Uno\\red_skip_large.png"
+    },
+    {
+      "spec": "y0",
+      "image": "Resources\\Uno\\yellow_0_large.png"
+    },
+    {
+      "spec": "y1",
+      "image": "Resources\\Uno\\yellow_1_large.png"
+    },
+    {
+      "spec": "y2",
+      "image": "Resources\\Uno\\yellow_2_large.png"
+    },
+    {
+      "spec": "y3",
+      "image": "Resources\\Uno\\yellow_3_large.png"
+    },
+    {
+      "spec": "y4",
+      "image": "Resources\\Uno\\yellow_4_large.png"
+    },
+    {
+      "spec": "y5",
+      "image": "Resources\\Uno\\yellow_5_large.png"
+    },
+    {
+      "spec": "y6",
+      "image": "Resources\\Uno\\yellow_6_large.png"
+    },
+    {
+      "spec": "y7",
+      "image": "Resources\\Uno\\yellow_7_large.png"
+    },
+    {
+      "spec": "y8",
+      "image": "Resources\\Uno\\yellow_8_large.png"
+    },
+    {
+      "spec": "y9",
+      "image": "Resources\\Uno\\yellow_9_large.png"
+    },
+    {
+      "spec": "yP",
+      "image": "Resources\\Uno\\yellow_picker_large.png"
+    },
+    {
+      "spec": "yR",
+      "image": "Resources\\Uno\\yellow_reverse_large.png"
+    },
+    {
+      "spec": "yS",
+      "image": "Resources\\Uno\\yellow_skip_large.png"
+    },
+    {
+      "spec": "w",
+      "image": "Resources\\Uno\\yellow_reverse_large.png"
+    },
+    {
+      "spec": "w4",
+      "image": "Resources\\Uno\\yellow_skip_large.png"
+    }
+  ]
+}

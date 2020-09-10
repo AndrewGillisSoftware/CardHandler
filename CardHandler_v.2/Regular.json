@@ -1,0 +1,222 @@
+{
+  "DIMENSIONS": 
+  {
+    "x": 310,
+    "y": 400,
+    "scale": 10
+  },
+  "CARDS": [
+    {
+      "spec": "back",
+      "image": "Resources\\Regular\\blue_back.png"
+    },
+    {
+      "spec": "1S",
+      "image": "Resources\\Regular\\AS.png"
+    },
+    {
+      "spec": "2S",
+      "image": "Resources\\Regular\\2S.png"
+    },
+    {
+      "spec": "3S",
+      "image": "Resources\\Regular\\3S.png"
+    },
+    {
+      "spec": "4S",
+      "image": "Resources\\Regular\\4S.png"
+    },
+    {
+      "spec": "5S",
+      "image": "Resources\\Regular\\5S.png"
+    },
+    {
+      "spec": "6S",
+      "image": "Resources\\Regular\\6S.png"
+    },
+    {
+      "spec": "7S",
+      "image": "Resources\\Regular\\7S.png"
+    },
+    {
+      "spec": "8S",
+      "image": "Resources\\Regular\\8S.png"
+    },
+    {
+      "spec": "9S",
+      "image": "Resources\\Regular\\9S.png"
+    },
+    {
+      "spec": "10S",
+      "image": "Resources\\Regular\\10S.png"
+    },
+    {
+      "spec": "JS",
+      "image": "Resources\\Regular\\JS.png"
+    },
+    {
+      "spec": "QS",
+      "image": "Resources\\Regular\\QS.png"
+    },
+    {
+      "spec": "KS",
+      "image": "Resources\\Regular\\KS.png"
+    },
+    {
+      "spec": "1C",
+      "image": "Resources\\Regular\\AC.png"
+    },
+    {
+      "spec": "2C",
+      "image": "Resources\\Regular\\2C.png"
+    },
+    {
+      "spec": "3C",
+      "image": "Resources\\Regular\\3C.png"
+    },
+    {
+      "spec": "4C",
+      "image": "Resources\\Regular\\4C.png"
+    },
+    {
+      "spec": "5C",
+      "image": "Resources\\Regular\\5C.png"
+    },
+    {
+      "spec": "6C",
+      "image": "Resources\\Regular\\6C.png"
+    },
+    {
+      "spec": "7C",
+      "image": "Resources\\Regular\\7C.png"
+    },
+    {
+      "spec": "8C",
+      "image": "Resources\\Regular\\8C.png"
+    },
+    {
+      "spec": "9C",
+      "image": "Resources\\Regular\\9C.png"
+    },
+    {
+      "spec": "10C",
+      "image": "Resources\\Regular\\10C.png"
+    },
+    {
+      "spec": "JC",
+      "image": "Resources\\Regular\\JC.png"
+    },
+    {
+      "spec": "QC",
+      "image": "Resources\\Regular\\QC.png"
+    },
+    {
+      "spec": "KC",
+      "image": "Resources\\Regular\\KC.png"
+    },
+    {
+      "spec": "1H",
+      "image": "Resources\\Regular\\AH.png"
+    },
+    {
+      "spec": "2H",
+      "image": "Resources\\Regular\\2H.png"
+    },
+    {
+      "spec": "3H",
+      "image": "Resources\\Regular\\3H.png"
+    },
+    {
+      "spec": "4H",
+      "image": "Resources\\Regular\\4H.png"
+    },
+    {
+      "spec": "5H",
+      "image": "Resources\\Regular\\5H.png"
+    },
+    {
+      "spec": "6H",
+      "image": "Resources\\Regular\\6H.png"
+    },
+    {
+      "spec": "7H",
+      "image": "Resources\\Regular\\7H.png"
+    },
+    {
+      "spec": "8H",
+      "image": "Resources\\Regular\\8H.png"
+    },
+    {
+      "spec": "9H",
+      "image": "Resources\\Regular\\9H.png"
+    },
+    {
+      "spec": "10H",
+      "image": "Resources\\Regular\\10H.png"
+    },
+    {
+      "spec": "JH",
+      "image": "Resources\\Regular\\JH.png"
+    },
+    {
+      "spec": "QH",
+      "image": "Resources\\Regular\\QH.png"
+    },
+    {
+      "spec": "KH",
+      "image": "Resources\\Regular\\KH.png"
+    },
+    {
+      "spec": "1D",
+      "image": "Resources\\Regular\\AD.png"
+    },
+    {
+      "spec": "2D",
+      "image": "Resources\\Regular\\2D.png"
+    },
+    {
+      "spec": "3D",
+      "image": "Resources\\Regular\\3D.png"
+    },
+    {
+      "spec": "4D",
+      "image": "Resources\\Regular\\4D.png"
+    },
+    {
+      "spec": "5D",
+      "image": "Resources\\Regular\\5D.png"
+    },
+    {
+      "spec": "6D",
+      "image": "Resources\\Regular\\6D.png"
+    },
+    {
+      "spec": "7D",
+      "image": "Resources\\Regular\\7D.png"
+    },
+    {
+      "spec": "8D",
+      "image": "Resources\\Regular\\8D.png"
+    },
+    {
+      "spec": "9D",
+      "image": "Resources\\Regular\\9D.png"
+    },
+    {
+      "spec": "10D",
+      "image": "Resources\\Regular\\10D.png"
+    },
+    {
+      "spec": "JD",
+      "image": "Resources\\Regular\\JD.png"
+    },
+    {
+      "spec": "QD",
+      "image": "Resources\\Regular\\QD.png"
+    },
+    {
+      "spec": "KD",
+      "image": "Resources\\Regular\\KD.png"
+    }
+  ]
+}
